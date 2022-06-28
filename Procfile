@@ -1,0 +1,1 @@
+userbot: bash startup.sh
